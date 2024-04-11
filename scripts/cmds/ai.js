@@ -6,7 +6,7 @@ const horizontalLine = "━━━━━━━━━━━━━━━";
 
 module.exports = {
   config: {
-    name: "ai",
+    name: "sisi",
     version: 1.0,
     author: "OtinXSandip",
     longDescription: "AI",
